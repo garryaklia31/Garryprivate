@@ -5,7 +5,7 @@ let users = []
 
 
 let USERS = [
-    ['6183834036', 'start', 0, 2], [ // PLAN DATABASE
+    ['1718738592', 'start', 0, 2], [ // PLAN DATABASE
     ],
     ADMIN_ID = , // 6330524734
     API_URL = "", // API DOMAIN (your-api.com)
@@ -13,8 +13,8 @@ let USERS = [
 
 const SETTINGS = {
     BOT_NAME: "Hitler DDOS",
-    TOKEN: "6525952363:AAHl3VtJrf_86su6k0_aNih78CZJWGlTA6Y",
-    OWNER_TAG: "@H1TL3R_P4P4xNew",
+    TOKEN: "6619456557:AAE5hwRYut_B-AefhkCx1kh9kgIWwlrWLg4",
+    OWNER_TAG: "@PUNJAB_BUY",
     TELEGRAM_LINK: "https://t.me/HitlerDdosBot", "https://t.me/+DMisuKR9GMxjMjJl", // TELEGRAM LINK
     TELEGRAM_CHANNEL_ID: -4168195962 // TELEGRAM CHANNEL ID
 
