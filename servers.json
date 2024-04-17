@@ -1,0 +1,16 @@
+{
+    "servers": [
+        {
+            "hostname": "0.81.98",
+            "port": 22,
+            "username": "root",
+            "password": "DoS#"
+        },
+        {
+            "hostname": "225.95",
+            "port": 22,
+            "username": "root",
+            "password": "DDoS#"
+        }
+    ]
+}

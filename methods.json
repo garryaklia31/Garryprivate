@@ -1,0 +1,5 @@
+{
+    "raw": "node black-chip.js {host} {time} 64 10 proxy.txt ",
+    "method2": "command2 --host {host} --port {port} --time {time}",
+    "tls": "screen -dm node lostv2.js {host} {time} 64 10"
+}
